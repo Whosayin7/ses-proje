@@ -1,0 +1,5 @@
+{
+  "name": "Ses Şifreleyici",
+  "description": "A cryptographic tool that generates dynamic encryption keys from audio frequency spectrums.",
+  "requestFramePermissions": ["microphone"]
+}
